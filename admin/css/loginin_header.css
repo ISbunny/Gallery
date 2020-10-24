@@ -1,0 +1,66 @@
+/*!
+ * Start Bootstrap - SB Admin Bootstrap Admin Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+
+body {
+    
+    background-color: #ddd;
+}
+
+@media(min-width:768px) {
+    body {
+        margin-top: 50px;
+    }
+}
+
+.login-form {
+    
+    height: 325px;
+    width: 100%;
+    background: #f7f7f7;
+    line-height: 1.5rem;
+    padding: 2rem;
+    border: 1px solid #fff;
+    border-radius: 15px;
+}
+.main {
+    margin: 50px auto;
+}
+.btn.btn-secondary {
+    width: 100%;
+    margin-top: 1.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.back-home {
+
+display: block;
+padding: .5em;
+line-height: 1.5rem;
+    
+
+    
+}
+.back-home,a{
+
+    text-decoration: none;
+    color: #665f5f;
+    font-weight: bold;
+    text-align: center;
+}
+.back-home,a:hover{
+    color: #757767;;
+    text-decoration: none;
+    
+}
+
+
+
+
+
